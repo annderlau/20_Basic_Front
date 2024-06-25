@@ -1,1 +1,2 @@
-# Passo a passo pra quem quer aprender a criar seu primeiro Site com HTML e CSS.
+# Basic_Front
+ Iniciando estudos usando HTML pra desenvolver seu site.
